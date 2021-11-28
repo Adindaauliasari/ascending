@@ -3,7 +3,9 @@
 using namespace std;
  
 int main()
+ 
 {
+ 
     int bil[6], n, i, j, temp;
     for (n=1; n<=5; n++){
         cout << "Bilangan ke [ "<< n <<" ] : ";
