@@ -1,6 +1,7 @@
  #include <iostream>
   
 using namespace std;
+ 
 int main()
 {
     int bil[6], n, i, j, temp;
