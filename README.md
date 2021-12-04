@@ -11,6 +11,7 @@ int main()
         cout << "Bilangan ke [ "<< n <<" ] : ";
         cin >> bil[n];
     }
+    
     cout << "Hasil pengurutan bilangan kecil ke besar : " <<endl;
     for (i=1; i<=5; i++){
         for (j=1; j<=5; j++){
@@ -21,6 +22,7 @@ int main()
             }
         }
     }
+    
     for (i=1; i<=5; i++){
         cout << bil[i] << ", ";
     }
