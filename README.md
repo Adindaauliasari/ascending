@@ -26,5 +26,5 @@ int main()
     for (i=1; i<=5; i++){
         cout << bil[i] << ", ";
     }
-    return 0;
+   
 }
