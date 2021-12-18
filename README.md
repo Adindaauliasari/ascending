@@ -13,6 +13,7 @@ int main()
     }
     
     cout << "Hasil pengurutan bilangan kecil ke besar : " <<endl;
+    
     for (i=1; i<=5; i++){
         for (j=1; j<=5; j++){
             if (bil[i] < bil[j]){
